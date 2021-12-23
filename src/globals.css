@@ -4,7 +4,14 @@
 
 @layer base {
 	body {
-		@apply bg-gray-50;
-		@apply text-gray-900;
+		@apply bg-gray-50 text-gray-900;
 	}
+}
+
+.bar {
+	@apply bg-gray-100 border-gray-200;
+}
+
+.main {
+	@apply ml-48;
 }
