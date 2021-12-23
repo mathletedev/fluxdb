@@ -1,3 +1,3 @@
 # fluxdb
 
-> statistics and analytics for websites
+> global website database
