@@ -15,3 +15,11 @@
 .main {
 	@apply ml-48;
 }
+
+.text-button {
+	@apply py-1 px-3 bg-blue-600 text-gray-50 rounded transition hover:bg-blue-700;
+}
+
+.icon-button {
+	@apply h-6 w-6 text-blue-500 transition hover:text-blue-600;
+}

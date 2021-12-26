@@ -1,11 +1,3 @@
-import { FC } from "react";
-import Sidebar from "../components/navigation/Sidebar";
+import Dashboard from "../components/dashboard/Dashboard";
 
-const _Index: FC = () => (
-	<>
-		<Sidebar></Sidebar>
-		<div className="main">hello world!</div>
-	</>
-);
-
-export default _Index;
+export default Dashboard;
